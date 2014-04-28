@@ -1,6 +1,6 @@
 {
   "name": "mira",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mira front-end helper",
   "main": "index.js",
   "dependencies": {
