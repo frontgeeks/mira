@@ -1,0 +1,26 @@
+{
+  "name": "mira",
+  "version": "0.0.12",
+  "description": "mira",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "latest",
+    "argchecker": "latest",
+    "mira-structure": "latest"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "mira"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "mira": "index.js"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "author": "dilan.mckey",
+  "license": "MIT"
+}
