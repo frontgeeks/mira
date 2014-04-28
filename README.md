@@ -1,11 +1,10 @@
 # mira
-====
 
 Mira front-end helper
 
 ## Install
    npm install -g mira
 
-# Start
+## Start
    mira app
 
