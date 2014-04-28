@@ -1,26 +1,27 @@
 {
   "name": "mira",
-  "version": "0.0.12",
-  "description": "mira",
+  "version": "0.0.2",
+  "description": "Mira front-end helper",
   "main": "index.js",
   "dependencies": {
     "inquirer": "latest",
     "argchecker": "latest",
     "mira-structure": "latest"
   },
+  "bin": {
+    "mira": "index.js"
+  },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git://github.com/frontgeeks/mira.git"
   },
   "keywords": [
     "mira"
   ],
-  "preferGlobal": "true",
-  "bin": {
-    "mira": "index.js"
-  },
   "engines": {
     "node": ">= 0.8.0"
   },
-  "author": "dilan.mckey",
-  "license": "MIT"
+  "author": "Dilan Mckey <dilan.mckey@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
 }
