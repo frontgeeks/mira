@@ -5,8 +5,9 @@
   "main": "index.js",
   "dependencies": {
     "inquirer": "latest",
-    "argchecker": "latest",
-    "mira-structure": "latest"
+    "mira-structure": "latest",
+    "commander": "latest"
+
   },
   "bin": {
     "mira": "index.js"
